@@ -1,4 +1,4 @@
-# Criação de uma página de login do Twitter
+# Criação de uma página para login no Twitter
 
 Este exercício proposto em curso visou a criação de uma página simples do Twitter, atual X.
 
